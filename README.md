@@ -1,5 +1,11 @@
 # About Me
-Hi! I'm Leif (pronounced like "life", it's that easy) and it's great you're here. You'll have to figure out yourself why exactly. This website is mostly an archive of my own for my own but it's great if you find anything useful here. I was born in Germany, grew up near Lucerne in Switzerland and I am currently studying Interdiscplinary Sciences at ETH Zurich with a major in chemistry and computer science
+Hi! I'm Leif (pronounced like "life", it's that easy) and it's great you're here. You'll have to figure out yourself why exactly. This website is mostly an archive of my own for my own but it's great if you find anything useful here. I was born in Germany, grew up near Lucerne in Switzerland and I am currently studying Interdiscplinary Sciences at ETH Zurich with a major in chemistry and computer science. 
+
+# Education 
+- MSc. Thesis at MIT in the group of Jim J. Collins. 
+- MSc. in Interdisciplinary Sciences (Chemistry, Computer Science), ETH Zurich.
+- BSc. in Interdisciplinary Sciences (Chemistry, Biology), ETH Zurich.
+- Matura at Kantonsschule Alpenquai (bilingual, valedictorian), Luzern. 
 
 # Research Projects
 Here are the research projects that I have been involved in over the years. You'll find the links to the relevant articles in due time, until then you can also find them on [Google Scholar] (https://scholar.google.com/citations?user=JoZlcK0AAAAJ&hl=en&oi=ao) or via my [ORC-ID] (https://orcid.org/0009-0002-9990-4896). 
