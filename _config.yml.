@@ -1,2 +1,5 @@
 title: Leif Sieben
-theme: jeykll-theme-minimal
+logo: /img/headshot_circle.png
+#description: text below image
+show_downloads: true
+theme: jekyll-theme-minimal
