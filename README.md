@@ -37,6 +37,15 @@ Teaching is society's way to let smarty-pants cash in on their precociousness. I
 - Organic Chemistry I - Introduction to Organic Chemistry for Biologists
 - Physical Chemistry III - Quantum Mechanics
 
+## Philosophy of Science
+
+I have been a contributing writer for both the Chemistry department's student newspaper "Exsikkator" and the ETH wide student newspaper "Polykum" writing a column on the philosophy of chemistry and science respectively. Some - but by no means all - of this writing was inspired by my own experiences in the lab. You can find a few examples below.
+
+- [The Blobfish Scenario](assets/articles/Turbulent_Exsi_April23-4_TheBlobfishScenario.pdf). An article examining the quietest revolution that ever happened in science: the re-definition of all fundamental units. Could we (and would we) rediscover all our fundamental SI units in the case that our civilization suddenly ended and we had to start from scratch?
+- [Consider the Electron](assets/articles/Toleranz_Exsi_Juni2023_ConsiderTheElectron.pdf). Is chemistry amoral? Are electrons moral patients? A serious answer to a silly question.
+- [Zen and the Art of Molecule Making](assets/articles/Essenz_Exsi_Oktober2023_ZenAndTheArtOfMoleculeMaking.pdf). What is chemistry and what is the meaning of chemical thinking? A hypothesis on why chemists dislike the word "model" and thoughts on the philosophical relevance of the Ziegler-Natta catalyst.
+- [How to Have Good Ideas Always](assets/articles/Trend_Exsi_December2023_HowToHaveGoodIdeasAlways.pdf). On Fritz Zwicky and the Morphological Method. Is there a method to creativity? An article on dark matter, jet engines and the globally optimal Muesli.
+
 ## TEDx Talk 2022
 ![TEDx](assets/img/Capture2.JPG)
 
