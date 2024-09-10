@@ -36,6 +36,8 @@ Teaching is society's way to let smarty-pants cash in on their precociousness. I
 - Physical Chemistry III - Quantum Mechanics
 
 ## TEDx Talk 2022
+![TEDx](assets/img/Capture2.JPG)
+
 If your interested in the power of scientific thinking and my own story in science you can also take a look at the [TEDx talk](https://www.youtube.com/watch?v=rql940dY1b4) I gave a while back.
 
 ## Volunteering
@@ -46,6 +48,8 @@ If your interested in the power of scientific thinking and my own story in scien
 - I'm looking for a volunteering cause in Boston, so if you know something let me know.
 
 ## The Apology of Nagarjuna
+![nagarjuna](assets/img/nagarjuna.jpg)
+
 In my matura thesis, I treat the Buddhist philosopher Nagarjuna (ca. 2nd century CE) who was revolutionary in the development of Buddhism as he was the first philosopher willing to question the teachings of the Buddha and to put these onto an independent philosophical basement. His teaching remains enormously influential, if nearly completely unknown in the West, as he initiated the "reform Buddhism" known as Mahayana, which encompasses many of today's best known types of Buddhism such as Zen Buddhism. In this work I attempted to use and extend Boolean algebra developed by Graham priest to make Nagarjuna more understandable to a Western audience and to prove the point that his arguments do have philosophical and even logical rigour. Nagarjuna is by no means simply a esoteric thinker concerned with mystical enlightenment but a uniquely sharp and original philosopher in his own right.
 
 - Please find the full text here [Matura thesis]()
@@ -53,6 +57,8 @@ In my matura thesis, I treat the Buddhist philosopher Nagarjuna (ca. 2nd century
 - And a second poster (also in German) here: [Another Poster]()
 
 ## Alchemy
+![alchemy](assets/img/Flammarion.jpg)
+
 In 2023 I was involved in organizing a seminar on the topic of alchemy for the Swiss Study Foundation. The seminar was in part inspired by the amazing book by James Elkins "What painting is", a beautiful melange of art history, chemistry and why alchemy is such a powerful metaphor for oil painting, as well as the operette "Alchemy" by Roald Hoffmann, a chemist. The seminar included talks on the history of ideas, art history, chemistry and crucially also by living, practicing alchemists to a broad audience of young Swiss students. There were a number of outstanding talks there and I hope to continue working on this topic. If anyone is willing to collaborate on any topic related to this please, regardless your background, do reach out.
 
 - Prof. Dr. Peter Forshaw, University of Amsterdam - Introduction to Alchemy
