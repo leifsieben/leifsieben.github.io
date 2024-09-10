@@ -16,6 +16,12 @@ A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pag
 A microfluidic assay for the inductive sensing of protease activity, Prof. Simone Schürle-Finke, ETH Zurich. 
 Master thesis - AI for antibiotics discovery, Prof. Jim J. Collins, MIT and Broad Institute. 
 
+# Publications 
+- A model of electron beam neutralization for gyrotron simulations, *Physics of Plasmas*, 2024.
+- A Dye‐Sensitized Sensor for Oxygen Detection under Visible Light, *Advanced Science*, 2024.
+- Electron Optics Simulation in the Overall Gyrotron Geometry, *Physics of Plasmas*, accepted.
+- A fluidic device for continuous on-line inductive sensing of proteolytic cleavages, *Lab on a Chip*, submitted. 
+
 # Teaching
 Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people.
 
