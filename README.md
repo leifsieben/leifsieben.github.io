@@ -10,11 +10,11 @@ Hi! I'm Leif (pronounced like "life", it's that easy) and it's great you're here
 ## Research Projects
 Here are the research projects that I have been involved in over the years. You'll find the links to the relevant articles in due time, until then you can also find them on [Google Scholar](https://scholar.google.com/citations?user=JoZlcK0AAAAJ&hl=en&oi=ao) or via my [ORC-ID](https://orcid.org/0009-0002-9990-4896). 
 
-Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
-Bachelor Thesis - Chemoresistive Sensor for low-cost, high-sensitivity greenhouse gas detection. Prof. Máté Bezdek, ETH Zurich. 
-A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pagonnakis, ETH Zurich. 
-A microfluidic assay for the inductive sensing of protease activity, Prof. Simone Schürle-Finke, ETH Zurich. 
-Master thesis - AI for antibiotics discovery, Prof. Jim J. Collins, MIT and Broad Institute. 
+-Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
+-Bachelor Thesis - Chemoresistive Sensor for low-cost, high-sensitivity greenhouse gas detection. Prof. Máté Bezdek, ETH Zurich. 
+-A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pagonnakis, ETH Zurich. 
+-A microfluidic assay for the inductive sensing of protease activity, Prof. Simone Schürle-Finke, ETH Zurich. 
+-Master thesis - AI for antibiotics discovery, Prof. Jim J. Collins, MIT and Broad Institute. 
 
 ## Publications 
 - A model of electron beam neutralization for gyrotron simulations, *Physics of Plasmas*, 2024.
