@@ -25,10 +25,10 @@ Master thesis - AI for antibiotics discovery, Prof. Jim J. Collins, MIT and Broa
 ## Teaching
 Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people.
 
-Physical Chemistry I - Thermodynamics (2x)
-Inorganic Chemistry I - Coordination Chemistry
-Organic Chemistry I - Introduction to Organic Chemistry for Biologists
-Physical Chemistry III - Quantum Mechanics
+-Physical Chemistry I - Thermodynamics (2x)
+-Inorganic Chemistry I - Coordination Chemistry
+-Organic Chemistry I - Introduction to Organic Chemistry for Biologists
+-Physical Chemistry III - Quantum Mechanics
 
 ## TEDx Talk 2022
 If your interested in the power of scientific thinking and my own story in science you can also take a look at the [TEDx talk](https://www.youtube.com/watch?v=rql940dY1b4) I gave a while back.
