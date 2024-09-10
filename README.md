@@ -1,6 +1,8 @@
 ## About Me
 Hi! I'm Leif (pronounced like "life", it's that easy) and it's great you're here. You'll have to figure out yourself why exactly. This website is mostly an archive of my own for my own but it's great if you find anything useful here. I was born in Germany, grew up near Lucerne in Switzerland and I am currently studying Interdiscplinary Sciences at ETH Zurich with a major in chemistry and computer science. 
 
+You can find a copy of my [CV](assets/CV_2p_no_pic.pdf) and my [LinkedIN profile](https://www.linkedin.com/in/leif-sieben-a694701b7/). Feel free to reach out and connect!
+
 ## Personal Blog
 Coming soon (but keep your expectations low).
 
