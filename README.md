@@ -48,13 +48,13 @@ If your interested in the power of scientific thinking and my own story in scien
 - I'm looking for a volunteering cause in Boston, so if you know something let me know.
 
 ## The Apology of Nagarjuna
-![nagarjuna](assets/img/nagarjuna.jpg)
+![nagarjuna](assets/img/nagarjuna-cropped.jpg)
 
 In my matura thesis, I treat the Buddhist philosopher Nagarjuna (ca. 2nd century CE) who was revolutionary in the development of Buddhism as he was the first philosopher willing to question the teachings of the Buddha and to put these onto an independent philosophical basement. His teaching remains enormously influential, if nearly completely unknown in the West, as he initiated the "reform Buddhism" known as Mahayana, which encompasses many of today's best known types of Buddhism such as Zen Buddhism. In this work I attempted to use and extend Boolean algebra developed by Graham priest to make Nagarjuna more understandable to a Western audience and to prove the point that his arguments do have philosophical and even logical rigour. Nagarjuna is by no means simply a esoteric thinker concerned with mystical enlightenment but a uniquely sharp and original philosopher in his own right.
 
-- Please find the full text here [Matura thesis]()
-- You can also find a poster from a presentation I gave here in German: [Poster]()
-- And a second poster (also in German) here: [Another Poster]()
+- Please find the full text here [Matura thesis](assets/matura-thesis/MA.pdf)
+- You can also find a poster from a presentation I gave here in German: [Poster](assets/matura-thesis/Poster SJF Version def.pdf)
+- And a second poster (also in German) here: [Another Poster](assets/matura-thesis/PosterFokusMA.pdf)
 
 ## Alchemy
 ![alchemy](assets/img/Flammarion.jpg)
