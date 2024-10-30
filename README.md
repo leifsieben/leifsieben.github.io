@@ -19,7 +19,7 @@ Here are the research projects that I have been involved in over the years. You'
 - A microfluidic assay for the inductive sensing of protease activity, Prof. Simone Schürle-Finke, ETH Zurich. 
 - Bachelor Thesis - Chemoresistive Sensor for low-cost, high-sensitivity greenhouse gas detection. Prof. Máté Bezdek, ETH Zurich. 
 - A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pagonnakis, ETH Zurich.
-- - Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
+- Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
 
 
 ## Publications 
