@@ -3,9 +3,6 @@ Hi! I'm Leif (pronounced like "life", it's that easy) and it's great you're here
 
 You can find a copy of my [CV](assets/CV_2p_no_pic.pdf) and my [LinkedIN](https://www.linkedin.com/in/leif-sieben-a694701b7/) profile. Feel free to reach out and connect!
 
-## Personal Blog
-Coming soon (but keep your expectations low).
-
 ## Education 
 - MSc. Thesis at MIT in the group of Jim J. Collins. 
 - MSc. in Interdisciplinary Sciences (Chemistry, Computer Science), ETH Zurich.
