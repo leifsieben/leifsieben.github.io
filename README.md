@@ -26,7 +26,8 @@ Here are the research projects that I have been involved in over the years. You'
 - A model of electron beam neutralization for gyrotron simulations, *Physics of Plasmas*, 2024.
 - A Dye‐Sensitized Sensor for Oxygen Detection under Visible Light, *Advanced Science*, 2024.
 - Electron Optics Simulation in the Overall Gyrotron Geometry, *Physics of Plasmas*, accepted.
-- A fluidic device for continuous on-line inductive sensing of proteolytic cleavages, *Lab on a Chip*, submitted.
+- A fluidic device for continuous on-line inductive sensing of proteolytic cleavages, *Lab on a Chip*, 2025.
+- A Chemical Language Model for Molecular Taste Prediction, *npj Science of Food*, 2025. 
 
 In 2024, I have been a senior research fellow at the student-led security-studies think tank [EPIS](https://www.epis-thinktank.de/). I have contributed an article on the future of biological warfare [What will biological warfare look like in the 21st century?](https://www.epis-thinktank.de/magazine/4/1).
 
@@ -57,7 +58,7 @@ If your interested in the power of scientific thinking and my own story in scien
 - [Jugend Debattiert](https://yes.swiss/en/programmes/youth-debate) Promotes debate in school and organizes regional and national debate competitions.
 - [International Chemistry Olympiad 2023](https://www.icho2023.ch/) The international science olympiad for chemistry took place in Zurich 2023.
 - I have been a contributing writer to two student newspapers at ETH running two regular columns on the philosophy of chemistry and of science more broadly. 
-- I'm looking for a volunteering cause in Boston, so if you know something let me know.
+- The Margaret Fuller Neighbourhood House in Cambridge, MA. 
 
 ## The Apology of Nagarjuna
 ![nagarjuna](assets/img/nagarjuna-cropped.jpg)
