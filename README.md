@@ -47,7 +47,7 @@ During my Master thesis in the group of Jim Collins, we managed to make some maj
 
 You can read the full article published in *Cell* [here](https://doi.org/10.1016/j.cell.2025.07.033).
 
-There's also a really nice [BBC article](https://www.bbc.com/news/articles/cgr94xxye2lo) discussing our work. 
+There's are also some really nice articles disscusing our work by the [BBC](https://www.bbc.com/news/articles/cgr94xxye2lo), [MIT News](https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814), [Fierce Biotech](https://www.fiercebiotech.com/research/deep-learning-generative-ai-models-build-new-antibiotics-starting-single-atom) among others. 
 
 ## Teaching
 Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people.
