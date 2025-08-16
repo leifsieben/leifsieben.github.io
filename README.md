@@ -41,6 +41,8 @@ The article was also very nicely discussed in The New Scientist: [Is this the be
 
 ## A generative deep learning approach to de novo antibiotic design
 
+![Cell](assets/img/krishnan_graph_abstract.jpg)
+
 During my Master thesis in the group of Jim Collins, we managed to make some major progress towards using generative AI in drug discovery. Generative AI in chemistry generally is a thorny issue: having a computer "dream up" molecular structures often leads to molecules that are either nearly impossible to make or that are one-hit-wonders that e.g. kill cancer cells but also every other cell in a patient's body. We investigated both older genetic algorithms and so-called variational autoencoders (VAE) to generate useful fragments for antibiotics discovery. Of the 24 compounds we ultimately synthesized, seven were active and two lead compounds showed efficacy against nasty, multi-drug resistant bacteria including MRSA. Our computational approach both increased hit rates tremendously (in drug discovery you can often test thousands of compounds without finding a single hit) and led us to explore completelye new molecular structures that a human would not have intuitively picked. 
 
 You can read the full article published in *Cell* [here](https://doi.org/10.1016/j.cell.2025.07.033).
