@@ -1,7 +1,7 @@
 ## About Me
 Hi! I'm Leif (pronounced like "life", it's that easy) and it's great you're here. You'll have to figure out yourself why exactly. This website is mostly an archive of my own for my own but it's great if you find anything useful here. I was born in Germany, grew up near Lucerne in Switzerland and I am currently studying Interdiscplinary Sciences at ETH Zurich with a major in chemistry and computer science. 
 
-You can find a copy of my [CV](assets/CV_2p_no_pic.pdf) and my [LinkedIN](https://www.linkedin.com/in/leif-sieben-a694701b7/) profile. Feel free to reach out and connect!
+You can find a copy of my [CV](assets/img/CV_Sieben_Leif.pdf) and my [LinkedIN](https://www.linkedin.com/in/leif-sieben-a694701b7/) profile. Feel free to reach out and connect!
 
 ## Education 
 - MSc. Thesis at MIT in the group of Jim J. Collins. 
@@ -18,15 +18,26 @@ Here are the research projects that I have been involved in over the years. You'
 - A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pagonnakis, ETH Zurich.
 - Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
 
+## FART -- or how a computer tastes a molecule 
+
+In 2024, a group of friends and I took a course in Digital Chemistry and started a group project together: training a machine learning model that could predict the taste of a molecule. Naturally, we named our transformer-based model the "Flavor Analysis and Recognition Transformer" or short -- FART. FART was actually the first model to predict the flavour of a molecule across five different taste categories in parallel and far exceeded the performance of any previous model at 91% accuracy. 
+
+If you want to try it for yourself, there's an online interface available via [huggingface](https://huggingface.co/spaces/FartLabs/FART).
+
+You can find the paper published in npj Science of Food [here](https://doi.org/10.1038/s41538-025-00474-z). 
+The article was also very nicely discussed in The New Scientist: [Is this the best acronym in science? It's certainly the smelliest](https://www.newscientist.com/article/mg26735562-500-is-this-the-best-acronym-in-science-its-certainly-the-smelliest/). 
+
+
 
 ## Publications 
 - A model of electron beam neutralization for gyrotron simulations, *Physics of Plasmas*, 2024.
 - A Dye‐Sensitized Sensor for Oxygen Detection under Visible Light, *Advanced Science*, 2024.
 - Electron Optics Simulation in the Overall Gyrotron Geometry, *Physics of Plasmas*, accepted.
 - A fluidic device for continuous on-line inductive sensing of proteolytic cleavages, *Lab on a Chip*, 2025.
-- A Chemical Language Model for Molecular Taste Prediction, *npj Science of Food*, 2025. 
+- A Chemical Language Model for Molecular Taste Prediction, *npj Science of Food*, 2025.
+- A generative deep learning approach to de novo antibiotic design, *Cell*, 2025. 
 
-In 2024, I have been a senior research fellow at the student-led security-studies think tank [EPIS](https://www.epis-thinktank.de/). I have contributed an article on the future of biological warfare [What will biological warfare look like in the 21st century?](https://www.epis-thinktank.de/magazine/4/1).
+Since 2024, I have been a senior research fellow at the student-led security-studies think tank [EPIS](https://www.epis-thinktank.de/). I have contributed an article on the future of biological warfare [What will biological warfare look like in the 21st century?](https://www.epis-thinktank.de/magazine/4/1).
 
 ## Teaching
 Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people.
