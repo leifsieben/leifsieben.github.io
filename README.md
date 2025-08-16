@@ -10,26 +10,13 @@ You can find a copy of my [CV](assets/img/CV_Sieben_Leif.pdf) and my [LinkedIN](
 - Matura at Kantonsschule Alpenquai (bilingual, valedictorian), Luzern. 
 
 ## Research Projects
-Here are the research projects that I have been involved in over the years. You'll find the links to the relevant articles in due time, until then you can also find them on [Google Scholar](https://scholar.google.com/citations?user=JoZlcK0AAAAJ&hl=en&oi=ao) or via my [ORC-ID](https://orcid.org/0009-0002-9990-4896). 
+Here are the research projects that I have been involved in over the years. You can find an up-to-date list here at [Google Scholar](https://scholar.google.com/citations?user=JoZlcK0AAAAJ&hl=en&oi=ao) or via my [ORC-ID](https://orcid.org/0009-0002-9990-4896). 
 
 - Master thesis - AI for antibiotics discovery, Prof. Jim J. Collins, MIT and Broad Institute. 
 - A microfluidic assay for the inductive sensing of protease activity, Prof. Simone Schürle-Finke, ETH Zurich. 
 - Bachelor Thesis - Chemoresistive Sensor for low-cost, high-sensitivity greenhouse gas detection. Prof. Máté Bezdek, ETH Zurich. 
 - A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pagonnakis, ETH Zurich.
 - Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
-
-## FART -- or how a computer tastes a molecule 
-
-![FART](assets/img/FART-logo.jpg)
-
-In 2024, a group of friends and I took a course in Digital Chemistry and started a group project together: training a machine learning model that could predict the taste of a molecule. Naturally, we named our transformer-based model the "Flavor Analysis and Recognition Transformer" or short -- FART. FART was actually the first model to predict the flavour of a molecule across five different taste categories in parallel and far exceeded the performance of any previous model at 91% accuracy. 
-
-If you want to try it for yourself, there's an online interface available via [huggingface](https://huggingface.co/spaces/FartLabs/FART).
-
-You can find the paper published in npj Science of Food [here](https://doi.org/10.1038/s41538-025-00474-z). 
-The article was also very nicely discussed in The New Scientist: [Is this the best acronym in science? It's certainly the smelliest](https://www.newscientist.com/article/mg26735562-500-is-this-the-best-acronym-in-science-its-certainly-the-smelliest/). 
-
-
 
 ## Publications 
 - A model of electron beam neutralization for gyrotron simulations, *Physics of Plasmas*, 2024.
@@ -40,6 +27,25 @@ The article was also very nicely discussed in The New Scientist: [Is this the be
 - A generative deep learning approach to de novo antibiotic design, *Cell*, 2025. 
 
 Since 2024, I have been a senior research fellow at the student-led security-studies think tank [EPIS](https://www.epis-thinktank.de/). I have contributed an article on the future of biological warfare [What will biological warfare look like in the 21st century?](https://www.epis-thinktank.de/magazine/4/1).
+
+## FART -- or how a computer tastes a molecule 
+
+![FART](assets/img/FART-logo.png)
+
+In 2024, a group of friends and I took a course in Digital Chemistry and started a group project together: training a machine learning model that could predict the taste of a molecule. Naturally, we named our transformer-based model the "Flavor Analysis and Recognition Transformer" or short -- FART. FART was actually the first model to predict the flavour of a molecule across five different taste categories in parallel and far exceeded the performance of any previous model at 91% accuracy. 
+
+If you want to try it for yourself, there's an online interface available via [huggingface](https://huggingface.co/spaces/FartLabs/FART).
+
+You can find the paper published in npj Science of Food [here](https://doi.org/10.1038/s41538-025-00474-z). 
+The article was also very nicely discussed in The New Scientist: [Is this the best acronym in science? It's certainly the smelliest](https://www.newscientist.com/article/mg26735562-500-is-this-the-best-acronym-in-science-its-certainly-the-smelliest/). 
+
+## A generative deep learning approach to de novo antibiotic design
+
+During my Master thesis in the group of Jim Collins, we managed to make some major progress towards using generative AI in drug discovery. Generative AI in chemistry generally is a thorny issue: having a computer "dream up" molecular structures often leads to molecules that are either nearly impossible to make or that are one-hit-wonders that e.g. kill cancer cells but also every other cell in a patient's body. We investigated both older genetic algorithms and so-called variational autoencoders (VAE) to generate useful fragments for antibiotics discovery. Of the 24 compounds we ultimately synthesized, seven were active and two lead compounds showed efficacy against nasty, multi-drug resistant bacteria including MRSA. Our computational approach both increased hit rates tremendously (in drug discovery you can often test thousands of compounds without finding a single hit) and led us to explore completelye new molecular structures that a human would not have intuitively picked. 
+
+You can read the full article published in *Cell* [here](https://doi.org/10.1016/j.cell.2025.07.033).
+
+There's also a really nice [BBC article](https://www.bbc.com/news/articles/cgr94xxye2lo) discussing our work. 
 
 ## Teaching
 Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people.
