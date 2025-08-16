@@ -18,6 +18,14 @@ Here are the research projects that I have been involved in over the years. You 
 - A numerical model for electron beam neutralization in gyrotrons, Dr. Ioannis Pagonnakis, ETH Zurich.
 - Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
 
+## Teaching
+Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people. If you're a student at ETH yourself and want any of the material feel free to <p><a href="mailto:leif.sieben@outlook.com">shoot me an email.</a></p>
+
+- Physical Chemistry I - Thermodynamics (2x)
+- Inorganic Chemistry I - Coordination Chemistry
+- Organic Chemistry I - Introduction to Organic Chemistry for Biologists
+- Physical Chemistry III - Quantum Mechanics
+
 ## Publications 
 - A model of electron beam neutralization for gyrotron simulations, *Physics of Plasmas*, 2024.
 - A Dye‐Sensitized Sensor for Oxygen Detection under Visible Light, *Advanced Science*, 2024.
@@ -27,17 +35,6 @@ Here are the research projects that I have been involved in over the years. You 
 - A generative deep learning approach to de novo antibiotic design, *Cell*, 2025. 
 
 Since 2024, I have been a senior research fellow at the student-led security-studies think tank [EPIS](https://www.epis-thinktank.de/). I have contributed an article on the future of biological warfare [What will biological warfare look like in the 21st century?](https://www.epis-thinktank.de/magazine/4/1).
-
-## FART -- or how a computer tastes a molecule 
-
-![FART](assets/img/FART-logo.png)
-
-In 2024, a group of friends and I took a course in Digital Chemistry and started a group project together: training a machine learning model that could predict the taste of a molecule. Naturally, we named our transformer-based model the "Flavor Analysis and Recognition Transformer" or short -- FART. FART was actually the first model to predict the flavour of a molecule across five different taste categories in parallel and far exceeded the performance of any previous model at 91% accuracy. 
-
-If you want to try it for yourself, there's an online interface available via [huggingface](https://huggingface.co/spaces/FartLabs/FART).
-
-You can find the paper published in npj Science of Food [here](https://doi.org/10.1038/s41538-025-00474-z). 
-The article was also very nicely discussed in The New Scientist: [Is this the best acronym in science? It's certainly the smelliest](https://www.newscientist.com/article/mg26735562-500-is-this-the-best-acronym-in-science-its-certainly-the-smelliest/). 
 
 ## A generative deep learning approach to de novo antibiotic design
 
@@ -49,13 +46,16 @@ You can read the full article published in *Cell* [here](https://doi.org/10.1016
 
 There's are also some really nice articles disscusing our work by the [BBC](https://www.bbc.com/news/articles/cgr94xxye2lo), [MIT News](https://news.mit.edu/2025/using-generative-ai-researchers-design-compounds-kill-drug-resistant-bacteria-0814), [Fierce Biotech](https://www.fiercebiotech.com/research/deep-learning-generative-ai-models-build-new-antibiotics-starting-single-atom) among others. 
 
-## Teaching
-Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people.
+## FART -- or how a computer tastes a molecule 
 
-- Physical Chemistry I - Thermodynamics (2x)
-- Inorganic Chemistry I - Coordination Chemistry
-- Organic Chemistry I - Introduction to Organic Chemistry for Biologists
-- Physical Chemistry III - Quantum Mechanics
+<img src="assets/img/FART-logo.png" alt="fart" width="100"/>
+
+In 2024, a group of friends and I took a course in Digital Chemistry and started a group project together: training a machine learning model that could predict the taste of a molecule. Naturally, we named our transformer-based model the "Flavor Analysis and Recognition Transformer" or short -- FART. FART was actually the first model to predict the flavour of a molecule across five different taste categories in parallel and far exceeded the performance of any previous model at 91% accuracy. 
+
+If you want to try it for yourself, there's an online interface available via [huggingface](https://huggingface.co/spaces/FartLabs/FART).
+
+You can find the paper published in npj Science of Food [here](https://doi.org/10.1038/s41538-025-00474-z). 
+The article was also very nicely discussed in The New Scientist: [Is this the best acronym in science? It's certainly the smelliest](https://www.newscientist.com/article/mg26735562-500-is-this-the-best-acronym-in-science-its-certainly-the-smelliest/). 
 
 ## Philosophy of Science
 
