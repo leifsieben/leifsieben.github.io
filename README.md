@@ -20,6 +20,8 @@ Here are the research projects that I have been involved in over the years. You'
 
 ## FART -- or how a computer tastes a molecule 
 
+![FART](assets/img/FART-logo.jpg)
+
 In 2024, a group of friends and I took a course in Digital Chemistry and started a group project together: training a machine learning model that could predict the taste of a molecule. Naturally, we named our transformer-based model the "Flavor Analysis and Recognition Transformer" or short -- FART. FART was actually the first model to predict the flavour of a molecule across five different taste categories in parallel and far exceeded the performance of any previous model at 91% accuracy. 
 
 If you want to try it for yourself, there's an online interface available via [huggingface](https://huggingface.co/spaces/FartLabs/FART).
