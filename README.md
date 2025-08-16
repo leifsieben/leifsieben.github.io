@@ -19,7 +19,7 @@ Here are the research projects that I have been involved in over the years. You 
 - Method Development for in-cell DNP Nuclear Magnetic Resonance. Prof. Alexander Barnes, ETH Zurich.
 
 ## Teaching
-Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people. If you're a student at ETH yourself and want any of the material feel free to <p><a href="mailto:leif.sieben@outlook.com">shoot me an email.</a></p>
+Teaching is society's way to let smarty-pants cash in on their precociousness. I have amply provided the world with mine both cost-free and for gainly employment approximately since the day I learned how to talk. At ETH I have taught the following courses, giving a 45 min recitation each week for 15-25 people. If you're a student at ETH yourself and want any of the material feel free to <a href="mailto:leif.sieben@outlook.com">shoot me an email.</a>
 
 - Physical Chemistry I - Thermodynamics (2x)
 - Inorganic Chemistry I - Coordination Chemistry
